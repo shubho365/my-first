@@ -1,3 +1,3 @@
 # my-first
-This is my first repository.
-Shubhomoy Dey
+This is my first repository. <br />
+Author - Shubhomoy Dey
